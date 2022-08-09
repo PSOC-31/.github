@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue sur le Github de Planète Sciences Occitanie 👋
 
 <!--
 
